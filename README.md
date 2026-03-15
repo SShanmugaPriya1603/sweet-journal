@@ -19,20 +19,11 @@ A simple and calming digital wellbeing mobile application built with Flutter.
 
 ##  Screenshots
 
-### App Thumbnail
-![Home](thumbnail.png)
-
-### Mood Tracker
-![MoodTracker](assets/MoodTracker.jpg)
-
-### Breathing Exercise(Inhaling)
-![Breathe](assets/InhalingCircle.jpg)
-
-### Breathing Exercise(Exhaling)
-![Breathe](assets/ExhalingCricle.jpg)
-
-### Session Complete
-![Timing](assets/Complete.jpg)
+| | |
+|:---:|:---:|
+| ![Home](assets/thumbnail.png) <br> *App Thumbnail* | ![MoodTracker](assets/MoodTracker.jpg) <br> *Mood Tracker* |
+| ![Breathe](assets/InhalingCircle.jpg) <br> *Breathing Exercise (Inhaling)* | ![Breathe](assets/ExhalingCricle.jpg) <br> *Breathing Exercise (Exhaling)* |
+| ![Timing](assets/Complete.jpg) <br> *Session Complete* | |
 
 ---
 
