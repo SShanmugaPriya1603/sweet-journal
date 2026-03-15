@@ -1,0 +1,11 @@
+# Treat these directories as vendored (external) code
+# This removes them from GitHub language statistics
+android/** linguist-vendored
+ios/** linguist-vendored
+web/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+
+# Ignore build artifacts if they are currently tracked
+build/** linguist-vendored
